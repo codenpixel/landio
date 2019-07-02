@@ -6,7 +6,7 @@ Free Bootstrap Landing page template.Author [sharebootstrap](https://sharebootst
 
 ## Demo
 
-[See it live](https://github.com/ShareBootstrap/landio)
+[See it live](http://sharebootstrap.com/demo/landio/)
 
 
 ## Quick start
