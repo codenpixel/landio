@@ -1,0 +1,96 @@
+@import "variables";
+@import "node_modules/bootstrap/scss/bootstrap";
+@import "spacing";
+
+/****************************
+*** Template custom style  
+********************************/
+
+.page-wrapper {
+    max-width: 1440px;
+    margin: 0 auto;
+    -webkit-box-shadow: 0 20px 48px rgba(22, 30, 42, 0.16);
+    box-shadow: 0 20px 48px rgba(22, 30, 42, 0.16);
+    position: relative
+}
+
+.lead {
+    font-size: 1.25rem;
+    font-weight: 400;
+}
+
+.shape-1 {
+    position: absolute;
+}
+
+.flip-x {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+
+.site-header {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 2;
+    max-width: 1440px;
+    margin: auto;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+}
+
+
+/****************************
+*** Hero 
+********************************/
+
+.hero {
+    position: relative;
+    z-index: 1;
+    &:before {
+        content: "";
+        position: absolute;
+        z-index: -1;
+        width: 100%;
+        height: 89%;
+        background: -webkit-gradient(linear, left top, right top, from(#4A00E0), to(#8E2DE2));
+        background: linear-gradient(to right, #4A00E0, #8E2DE2);
+    }
+}
+
+.hero-intro {
+    padding-top: 170px;
+}
+
+
+/****************************
+*** Hero 
+********************************/
+
+.mockup-container {
+    position: relative;
+    margin-bottom: 45px;
+}
+
+.device-mockup {
+    position: relative;
+    max-height: 700px;
+    margin: 0 auto;
+    z-index: 1;
+    max-width: 100%;/****************************
+*** Hero 
+********************************/
+    display: block;
+}
+
+.features-section {
+    margin-top: 75px;
+    margin-bottom: 75px
+}
+
+.avatar {
+    width: 45px;
+    height: 45px;
+}

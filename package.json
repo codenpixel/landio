@@ -1,0 +1,34 @@
+{
+    "name": "Landio"
+    , "version": "1.0.0"
+    , "description": "Free Bootstrap landing page template"
+    , "main": "index.js"
+    , "dependencies": {
+        "@fortawesome/fontawesome-free": "^5.8.2"
+        , "bootstrap": "^4.3.1"
+        , "jquery": "^3.4.1"
+        , "malihu-custom-scrollbar-plugin": "^3.1.5"
+        , "popper.js": "^1.15.0"
+    }
+    , "devDependencies": {
+        "browser-sync": "^2.26.5"
+        , "gulp": "^4.0.2"
+        , "gulp-autoprefixer": "^6.1.0"
+        , "gulp-sass": "^4.0.2"
+        , "node-sass": "^4.12.0"
+    }
+    , "scripts": {
+        "start": "gulp"
+    }
+    , "repository": {
+        "type": "git"
+        , "url": "git+https://github.com/ShareBootstrap/landio.git"
+    }
+    , "keywords": []
+    , "author": "ShareBootstrap"
+    , "license": "MIT"
+    , "bugs": {
+        "url": "https://github.com/ShareBootstrap/landio/issues"
+    }
+    , "homepage": "https://sharebootstrap.com"
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1600px" height="1123px" viewBox="0 0 1600 1123" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 53 (72520) - https://sketchapp.com -->
+    <title>2A8273F4-AB10-467C-9B09-4DE84F68FB1D</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="92.1081543%" y1="29.4416096%" x2="0%" y2="74.6314258%" id="linearGradient-1">
+            <stop stop-color="#F4F9FF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01_Index" transform="translate(0.000000, -6776.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="Company-News" transform="translate(0.000000, 6776.000000)">
+                <g id="Bg">
+                    <path d="M1600,0 C1468.33333,194.58839 1333,234.239106 1194,118.952149 C1061.84856,9.3454021 880.5,36.9851221 778.5,163.434256 C625.86762,352.652218 608.5,584.264377 375,553.276843 C141.5,522.289308 1.26705723e-14,627.247087 0,706.715119 C0,759.693808 0,891.249008 0,1101.38072 C185.333333,1154.70828 319.5,1109.37985 402.5,965.395447 C486.676098,819.370803 806.091489,1082.11393 915.5,965.395447 C1084.83333,784.748345 1313,799.580072 1600,1009.89063 L1600,0 Z" id="Path-35"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
