@@ -29,5 +29,5 @@ gulp default
 
 
 ## License
-This code is released under the license.
+This code is released under the MIT license.
 
